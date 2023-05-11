@@ -15,3 +15,5 @@ colore = prompt ('Inserisci il tuo colore preferito: ');
 document.getElementById('color').innerHTML = colore;
 
 document.getElementById('result').innerHTML = nome+cognome+colore+"21";
+
+document.getElementById('Result').innerHTML = "nomecognomecolorepreferito21";
