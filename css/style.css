@@ -6,14 +6,54 @@ body{
 @keyframes example {
     from {opacity: 0%;}
     to {opacity: 100%;}
-  }
+}
 
-  p{
+#my_name{
     animation-name: visibilita;
-    animation-duration: 5s;
-  }
+    animation-duration: 6s;
+}
 
-  @keyframes visibilita {
+@keyframes visibilita {
     from {opacity: 0%;}
     to {opacity: 100%;}
-  }
+}
+
+#my_surname{
+    animation-name: visibilita_due;
+    animation-duration: 7s;
+}
+
+@keyframes visibilita_due {
+    from {opacity: 0%;}
+    to {opacity: 100%;}
+}
+
+#my_color{
+    animation-name: visibilita_tre;
+    animation-duration: 8s;
+}
+
+@keyframes visibilita_tre {
+    from {opacity: 0%;}
+    to {opacity: 100%;}
+}
+
+#my_result{
+    animation-name: visibilita_quattro;
+    animation-duration: 9s;
+}
+
+@keyframes visibilita_quattro {
+    from {opacity: 0%;}
+    to {opacity: 100%;}
+}
+
+#my_Result{
+    animation-name: visibilita_cinque;
+    animation-duration: 10s;
+}
+
+@keyframes visibilita_cinque {
+    from {opacity: 0%;}
+    to {opacity: 100%;}
+}
