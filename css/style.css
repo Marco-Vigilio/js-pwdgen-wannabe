@@ -10,7 +10,7 @@ body{
 
 #my_name{
     animation-name: visibilita;
-    animation-duration: 6s;
+    animation-duration: 5s;
 }
 
 @keyframes visibilita {
@@ -20,7 +20,7 @@ body{
 
 #my_surname{
     animation-name: visibilita_due;
-    animation-duration: 7s;
+    animation-duration: 6s;
 }
 
 @keyframes visibilita_due {
@@ -30,7 +30,7 @@ body{
 
 #my_color{
     animation-name: visibilita_tre;
-    animation-duration: 8s;
+    animation-duration: 7s;
 }
 
 @keyframes visibilita_tre {
@@ -40,7 +40,7 @@ body{
 
 #my_result{
     animation-name: visibilita_quattro;
-    animation-duration: 9s;
+    animation-duration: 8s;
 }
 
 @keyframes visibilita_quattro {
@@ -50,7 +50,7 @@ body{
 
 #my_Result{
     animation-name: visibilita_cinque;
-    animation-duration: 10s;
+    animation-duration: 9s;
 }
 
 @keyframes visibilita_cinque {
